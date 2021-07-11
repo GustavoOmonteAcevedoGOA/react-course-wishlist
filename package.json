@@ -1,7 +1,7 @@
 {
   "name": "react-course-wishlist",
   "version": "1.0.0",
-  "description": "An exercise for an introduction to React",
+  "description": "An exercise for an introduction to React by Gustavo Omonte Acevedo",
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html --open"
@@ -13,10 +13,18 @@
   "author": "Alvaro Yuste (alvaroyuste.com)",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
-  }
+    "parcel-bundler": "^1.12.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoOmonteAcevedoGOA/react-course-wishlist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GustavoOmonteAcevedoGOA/react-course-wishlist/issues"
+  },
+  "homepage": "https://github.com/GustavoOmonteAcevedoGOA/react-course-wishlist#readme"
 }
